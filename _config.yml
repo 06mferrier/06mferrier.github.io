@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
 title: Matthew Ferrier
 description: My portfolio + CV
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  About Me: "index"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
