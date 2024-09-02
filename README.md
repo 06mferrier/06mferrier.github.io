@@ -1,1 +1,3 @@
-# 06mferrier.github.io
+layout: page
+title: "Home"
+permalink: index
