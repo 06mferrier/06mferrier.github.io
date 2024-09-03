@@ -2,7 +2,7 @@
 This page contains links to written works I have produced. Some content is mathematical, some content is not. This is intended to showcase a range of works, that have been produced using different tools, and written with different audiences in mind. I have arranged the links below so that the most accessible writing examples appear before any intense maths. Each heading serves as the link to the relevant piece of writing.
 
 ## My Notes From Google's Technical Writing Course
-This link takes you to a static site, written using Asciidoc and generated using Antora. It contains my notes and exercise solutions from Google's technical writing one course.
+This link takes you to a static site, written using Asciidoc and generated using Antora. It contains my notes and exercise solutions from Google's technical writing one course. It is heavily based on the structure of [Google's original pages](https://developers.google.com/tech-writing/one){@target="_blank"} but was produced as an exercise for me in working with new tools.
 
 _I still need to turn the relevant repository into a github pages site, and link to it_
 
