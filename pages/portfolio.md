@@ -3,12 +3,7 @@ This page contains links to written works I have produced. Some content is mathe
 
 ## [My Notes From Google's Technical Writing One Course](https://06mferrier.github.io/tech-writing-notes.github.io/build/site/tech-writing-one/index.html){:target="_blank"}
 This link takes you to a static site, written using Asciidoc and generated using Antora. It contains my notes and exercise solutions from Google's technical writing one course. It is heavily based on the structure of [Google's original pages](https://developers.google.com/tech-writing/one){:target="_blank"} but I have produced it as an exercise for me in working with new tools.
-<!--
-## How to Write Mathematics Help Pages
-This link takes you to a static site, (most likley) written using Asciidoc and generated using Antora. It contains my efforts at providing clear documentation for undergraduate students on how to write and proofread mathematics at university level.
 
-_I have a plan for the content of this site, but I still need to create it_
--->
 ## [PhD Thesis: Morita Equivalence for C*-Categories](https://etheses.whiterose.ac.uk/32345/){:target="_blank"}
 The link above opens the White Rose repository containing my thesis. There is a link on the right hand side of that page to view the PDF file. 
 
