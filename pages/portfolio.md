@@ -8,8 +8,6 @@ Link from github/turn the repository into pages first.
 Under construction
 
 ## [PhD Thesis: Morita Equivalence for C*-Categories](https://etheses.whiterose.ac.uk/32345/){:target="_blank"}
-[Morita Equivalence for C*-Categories](https://etheses.whiterose.ac.uk/32345/){:target="_blank"}
-
 The link above opens the White Rose repository containing my thesis. There is a link on the right hand side of that page to view the PDF file. 
 
 My project was in the  area of non-commutative geometry and combined functional analysis and category theory to develop tools to study Hilbert modules over C\*-categories, and explain in more detail existing constructions used in present literature. The audience for this work is very niche, however it is the longest example of written work I have produced. This file was typeset with LaTeX.
