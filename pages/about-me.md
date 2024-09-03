@@ -4,4 +4,4 @@ My name is Matthew, I live in Sheffield and was awarded my PhD in Mathematics in
 
 If you want to read more about what makes me tick, then my CV provides more information about what excites me about technical writing. 
 
-If you want to see some examples of my writing, then my portfolio contains various examples.
+If you want to see some examples of my writing, please navigate towards my portfolio.
