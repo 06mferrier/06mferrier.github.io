@@ -7,7 +7,7 @@ Link from github/turn the repository into pages first.
 ## How to Write Mathematics Help Pages
 Under construction
 
-## PhD Thesis
+## PhD Thesis: [Morita Equivalence for C*-Categories](https://etheses.whiterose.ac.uk/32345/){:target="_blank"}
 [Morita Equivalence for C*-Categories](https://etheses.whiterose.ac.uk/32345/){:target="_blank"}
 
 The link above opens the White Rose repository containing my thesis. There is a link on the right hand side of that page to view the PDF file. 
