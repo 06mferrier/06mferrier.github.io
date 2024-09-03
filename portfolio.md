@@ -1,5 +1,5 @@
 # Portfolio
-This page contains links to written works I have produced. Some content is mathematical, some content is not. My intention is for this to be a range of works, produced using different tools, and written with different audiences in mind. I have arranged the links below so that the most accessible writing examples appear before any intense maths.
+This page contains links to written works I have produced. Some content is mathematical, some content is not. This is intended to be a range of works, produced using different tools, and written with different audiences in mind. I have arranged the links below so that the most accessible writing examples appear before any intense maths.
 
 ## My Notes From Google's Technical Writing Course
 Link from github/turn the repository into pages first.
