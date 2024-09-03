@@ -1,1 +1,1 @@
-Welcome to my small corner of the internet. This will serve as an online portfolio of writing I have produced, and provide a link to my CV. Observant visitors will notice that there is no content here yet. This is not a mistake; this website is under construction.
+Welcome to my small corner of the internet. This site contains a portfolio of writing I have produced, and my CV. Use the navigation menu on the left hand side to locate the page you are interested in reading.
