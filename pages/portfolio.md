@@ -16,7 +16,6 @@ My project was in the  area of non-commutative geometry and combined functional 
 
 ## MSc Thesis
 [Banach and C* Algebras](06mferrier.github.io/files/ferrier-msc-final.pdf){:target="_blank"}
-Once I have uploaded it, the link to this PDF will go here.
 
 The link above opens my MSc thesis, produced during my studies at the University of Leeds. The thesis covers the basic theory of Banach and C\*-algebras, up to the Gelfand-Neumark theorem for C\*-algebras. The final chapter looks at so called CCR C\*-algebras. The material should be accessible to those with a decent working knowledge of functional analysis. This file was typeset with LaTeX.
 
