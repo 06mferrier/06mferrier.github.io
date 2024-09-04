@@ -9,6 +9,9 @@ The link above opens the White Rose repository containing my thesis. There is a 
 
 My project was in the  area of non-commutative geometry and combined functional analysis and category theory to develop tools to study Hilbert modules over C\*-categories, and explain in more detail existing constructions used in present literature. The audience for this work is very niche, however it is the longest example of written work I have produced. This file was typeset with LaTeX.
 
+## [PhD Thesis: Lay Summary](/pages/phd-layman.md){:target="_blank"}
+This is a lay summary of my PhD project. It should be understandable for people without a background in university maths. This page was typeset with Markdown.
+
 ## [MSc Thesis: Banach and C* Algebras](/files/ferrier-msc-final.pdf){:target="_blank"}
 This thesis was produced during my studies at the University of Leeds. The thesis covers the basic theory of Banach and C\*-algebras, up to the Gelfand-Neumark theorem for C\*-algebras. The final chapter looks at C\*-algebras of canonical commutation relations. The material should be accessible to those with a decent working knowledge of functional analysis. This file was typeset with LaTeX.
 
