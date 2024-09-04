@@ -1,7 +1,9 @@
 #My PhD Thesis: Lay Summary
 
 Research mathematics is a peculiar world, where academics sit down in quiet rooms and think about very abstract things. If you were to find your nearest pure mathematician and ask them what they are interested in, their answer will most likely follow the pattern “I am interested in _certain things_, satisfying _certain properties_”. To the layperson, the precise words used to describe _certain things_ and _certain properties_ will sound like made up phrases. For example;
+
 >Kähler manifolds of semi-negative holomorphic sectional curvature.
+
 One problem with trying to study abstract things is that we can’t use any of our usual tools to study them; we can’t pick them up and look at them with our eyes, we can’t measure them with rulers, or weigh them with scales, we can’t even take a sample from them and look at it under a microscope. We need special tools to study them with!
 
 <img align="right" src="catpic.png">
