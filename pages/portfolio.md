@@ -1,5 +1,5 @@
 # Portfolio
-This page contains links to written works I have produced. Some content is mathematical, some content is not. This is intended to showcase a range of works that have been produced using different tools, and written with different audiences in mind. Each heading serves as the link to the relevant piece of writing.
+This page contains links to written works I have produced. Some content is mathematical, some content is not. This is intended to showcase a range of works that have been produced using different tools, and written with different audiences in mind. Each heading is a link to the relevant piece of writing, which will open in a new tab.
 
 ## [My Notes From Google's Technical Writing One Course](https://06mferrier.github.io/tech-writing-notes.github.io/build/site/tech-writing-one/index.html){:target="_blank"}
 This link takes you to a static site, written using Asciidoc and generated using Antora. It contains my notes and exercise solutions from Google's technical writing one course. It is heavily based on the structure of [Google's original pages](https://developers.google.com/tech-writing/one){:target="_blank"} but I have produced it as an exercise for me in working with new tools.
