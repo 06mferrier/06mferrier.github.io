@@ -17,3 +17,6 @@ This thesis was produced during my studies at the University of Leeds. The thesi
 
 ## [MATH5015m Linear Analysis, Chapter 1](/files/math5015m-chapter-1.pdf){:target="_blank"}
 The first chapter of the notes I made during the course MATH5015m at the University of Leeds. This course was an introduction to functional analysis, measure theory, spaces of Lp integrable functions and Fourier theory on groups. This chapter should be accessible to those familiar with real analysis and theory of vector spaces. This file was typeset with LaTeX. I have more notes from this module, but adding them to this document remains a work in progress.
+
+## _Work in Progress: How to Write Mathematics_
+This will take the form of a static site, written using Asciidoc and generated using Antora. It will contain documentation for undergraduate students on how to write and proofread mathematics at university level.
