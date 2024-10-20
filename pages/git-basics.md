@@ -1,4 +1,4 @@
-#Getting Started with Git
+# Getting Started with Git
 
 Git is an industry standard tool for version control and collaboration. Being comfortable with the basics is essential. A high level summary of the process of working with Git is below:
 
@@ -19,7 +19,7 @@ To the uninitiated, the terminology used above will be unfamilar. The following 
 |Push| |
 |Pull| |
 
-##Basic Git Workflow
+## Basic Git Workflow
 
 The steps below will walk you through how to clone a repository, create a new branch, commit and push your changes, and make a pull request.
 
