@@ -4,6 +4,9 @@ This page contains links to written works I have produced. Some content is mathe
 ## User Guides and Tech Tips
 In my current role at Numed Healthcare, I write company specific guides for how to use Sage 200 software and Eureka Addons and tech tips that are sent to customers to explain common faults caused by user error.  Due to the nature of these documents, I will not share them freely over the internet, but would be happy to discuss and share these over private email. 
 
+## [Getting Started With Git](pages/git-basics){:target=_blank"}
+A brief intordution to using Git. Includes the basic workflow of cloning, branching and pull requesting a repository. Written with Markdown, this started life as part of a submission for a Technical Author take home assignment, but now serves as a future reference for myself. This page is still a minor work in progress and there are some changes and additions still to be made.
+
 ## [My Notes From Google's Technical Writing One Course](https://06mferrier.github.io/tech-writing-notes.github.io/build/site/tech-writing-one/index.html){:target="_blank"}
 This link takes you to a static site, written using Asciidoc and generated using Antora. It contains my notes and exercise solutions from Google's technical writing one course. It is heavily based on the structure of [Google's original pages](https://developers.google.com/tech-writing/one){:target="_blank"} but I have produced it as an exercise for me in working with new tools.
 
