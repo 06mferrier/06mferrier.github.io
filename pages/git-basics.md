@@ -84,9 +84,10 @@ to push your branch to github.
 __Create a pull request__\
 Open the github URL of the remote repository. Your new branch should be visible. Navigate to your branch and press the “Compare & pull request” button towards the top of the page. Add a title and description as appropriate, and press the “Create pull request” button.
 
-If there are no conflicts, it will be possible to review the pull request and merge the new branch with the main branch. If there are conflicts, then it could be that two people have made changes to the same line of a file, or one person has edited a file, and another person has deleted it. If there are conflicts present, github will make it obvious that this is the case.
+<!---If there are no conflicts, it will be possible to review the pull request and merge the new branch with the main branch. If there are conflicts, then it could be that two people have made changes to the same line of a file, or one person has edited a file, and another person has deleted it. If there are conflicts present, github will make it obvious that this is the case.
 
 Consider the scenario where the repository contains a file named data.txt. You edit the first line of data.txt as part of the changes you are making to your branch. Meanwhile, someone else makes changes to the first line of data.txt in their branch, submits their pull request and has it merged with the main branch before you finish your changes. When you make the pull request for your changes, github will flag up that there are conflicts that must be resolved. You can still make the pull request, and resolve the conflicts afterwards.
 
 Conflicts arising from competing changes can be resolved on github. When viewing a pull request with conflicts, there is a “resolve conflicts” button. Clicking this button will bring up an editor, comparing the two changes. There are markers <<<<<<, >>>>>>, and ====== separating the two changes. Resolve the conflict as appropriate, making sure the markers are deleted (including the branch names), and press the “mark as resolved” button. If there are other conflicts to resolve, use the next/previous buttons to navigate through them until they are all resolved.
+-->
 
