@@ -37,22 +37,49 @@ __Set directory__\
 Set the current directory to your local repository.
 
 __Have you contributed before?__\
-If you have contributed before, switch to the main branch with command ```git checkout main```, and use ```git pull``` to ensure that your local repository is up to date.
+If you have contributed before, switch to the main branch with command 
+```console
+git checkout main
+```
+and use 
+```
+git pull
+```
+to ensure that your local repository is up to date.
 
 __Create new branch__\
-Use command ```git branch <branch-name>``` to create the new branch for your changes, replacing ```<branch-name>``` with your chosen name for the new branch.
+Use command 
+```
+git branch <branch-name>
+```
+to create the new branch for your changes, replacing ```<branch-name>``` with your chosen name for the new branch.
 
 __Switch to new branch__\
-Switch to the new branch using command ```git checkout <branch-name>```.
+Switch to the new branch using command 
+```
+git checkout <branch-name>
+```
 
 __Make changes__\
 Make your changes to files in the new branch.
 
 __Commit changes__\
-Use command ```git add .``` to stage all new or modified files. Commit your changes with ```git commit –m"<comment>”```, replacing ```<comment>``` with a meaningful comment about your changes.
+Use command 
+```
+git add .
+```
+to stage all new or modified files. Commit your changes with 
+```
+git commit –m"<comment>”
+```
+replacing ```<comment>``` with a meaningful comment about your changes.
 
 __Push your branch__\
-Use command ```git push –set-upstream origin <branch-name>``` to push your branch to github.
+Use command 
+```
+git push –set-upstream origin <branch-name>
+```
+to push your branch to github.
 
 __Create a pull request__\
 Open the github URL of the remote repository. Your new branch should be visible. Navigate to your branch and press the “Compare & pull request” button towards the top of the page. Add a title and description as appropriate, and press the “Create pull request” button.
