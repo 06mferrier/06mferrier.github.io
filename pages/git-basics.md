@@ -23,34 +23,38 @@ To the uninitiated, the terminology used above will be unfamilar. This table wil
 
 The steps below will walk you through how to clone a repository, create a new branch, commit and push your changes, and make a pull request.
 
-* __Get started__\
+__Get started__\
 Open windows command prompt.
 
-*	__Clone the repository__\
-If this is your first time contributing, you will need to clone the remote repository. Use command ```git clone <repository-url>```, replacing ```<repository-url>``` with the URL of the repository you wish to clone.
+__Clone the repository__\
+If this is your first time contributing, you will need to clone the remote repository. Use command 
+```console 
+git clone <repository-url>
+```
+replacing ```<repository-url>``` with the URL of the repository you wish to clone.
 
-*	__Set directory__\
+__Set directory__\
 Set the current directory to your local repository.
 
-*	__Have you contributed before?__\
+__Have you contributed before?__\
 If you have contributed before, switch to the main branch with command ```git checkout main```, and use ```git pull``` to ensure that your local repository is up to date.
 
-*	__Create new branch__\
+__Create new branch__\
 Use command ```git branch <branch-name>``` to create the new branch for your changes, replacing ```<branch-name>``` with your chosen name for the new branch.
 
- * __Switch to new branch__\
+__Switch to new branch__\
 Switch to the new branch using command ```git checkout <branch-name>```.
 
-* __Make changes__\
+__Make changes__\
 Make your changes to files in the new branch.
 
-* __Commit changes__\
+__Commit changes__\
 Use command ```git add .``` to stage all new or modified files. Commit your changes with ```git commit –m"<comment>”```, replacing ```<comment>``` with a meaningful comment about your changes.
 
-* __Push your branch__\
+__Push your branch__\
 Use command ```git push –set-upstream origin <branch-name>``` to push your branch to github.
 
-* __Create a pull request__\
+__Create a pull request__\
 Open the github URL of the remote repository. Your new branch should be visible. Navigate to your branch and press the “Compare & pull request” button towards the top of the page. Add a title and description as appropriate, and press the “Create pull request” button.
 
 If there are no conflicts, it will be possible to review the pull request and merge the new branch with the main branch. If there are conflicts, then it could be that two people have made changes to the same line of a file, or one person has edited a file, and another person has deleted it. If there are conflicts present, github will make it obvious that this is the case.
