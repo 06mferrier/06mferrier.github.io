@@ -17,7 +17,7 @@ To the uninitiated, the terminology used above will be unfamilar. This table wil
 |Branch|Branches allow multiple people to work independently on a Git project. Each branch is a parallel version of the project, with a common start point. For example if Alice and Bob want to contribute, they make a copy of (or clone) the main branch of the project, make their contributions, then submit them.|
 |Commit|This is a local operation, saving a snapshot of changes you have made. You can add comments with your commit to explain what has been changed.| 
 |Push|This moves the changes you have made to your local repository to the remote repository.|
-|Pull request|These are requests to merge changes you have made on your branch of a project with the project's main branch.|
+|Pull|This is essentially a merge command. You can pull updates from the remote repository to your local one to ensure your local files are up to date. Also, you can make a pull request to merge changes you have made on your branch of a project with the project's main branch.|
 
 ## Basic Git Workflow
 
